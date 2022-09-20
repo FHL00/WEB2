@@ -1,0 +1,6 @@
+Nama Web : aplikasiweb
+untuk mengakses :
+- Ekstrak File Webnya
+- Import Database Terlebih dahulu
+- Aktifkan Mysql
+- Masukkan URL berikut di web browser "http://localhost/aplikasiweb/index.php/mahasiswa/tampilkan_data"
